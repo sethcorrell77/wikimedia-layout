@@ -1,0 +1,15 @@
+body {
+	height: 100%;
+	width: 100%;
+}
+
+
+.row {
+	display: inline-block;
+	width: 20%;
+}
+
+.column {
+	float: right;
+	display: inline;
+}
